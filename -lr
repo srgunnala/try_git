@@ -1,0 +1,113 @@
+commit a475ef2cbceb0542ca11b26bd34005bfdad2c876
+Author: unknown <srg465@UISWHLPT1824018.university.harvard.edu>
+Date:   Mon Mar 25 13:10:12 2013 -0400
+
+    fix #1
+
+diff --git a/test.txt b/test.txt
+index e69de29..7a0265a 100644
+--- a/test.txt
++++ b/test.txt
+@@ -0,0 +1 @@
++add widget bug fix 
+
+commit a45136417bfed852d02b7985b52952023e9e4089
+Author: unknown <srg465@UISWHLPT1824018.university.harvard.edu>
+Date:   Mon Mar 25 13:07:08 2013 -0400
+
+    adding new file to test bug
+
+diff --git a/test.txt b/test.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 99febaedd6b96731164ac1c7e4cc0a4f9a8129c6
+Author: Try Git <try_git@github.com>
+Date:   Fri Mar 22 13:53:02 2013 +0000
+
+    Removed all the cats
+
+diff --git a/blue_octocat.txt b/blue_octocat.txt
+deleted file mode 100644
+index c09729a..0000000
+--- a/blue_octocat.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A Blue Octocat
+diff --git a/octocat.txt b/octocat.txt
+deleted file mode 100644
+index 7d8d808..0000000
+--- a/octocat.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A Tale of Two Octocats
+diff --git a/octofamily/baby_octocat.txt b/octofamily/baby_octocat.txt
+deleted file mode 100644
+index 611fd14..0000000
+--- a/octofamily/baby_octocat.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A Baby Octocat
+diff --git a/octofamily/momma_octocat.txt b/octofamily/momma_octocat.txt
+deleted file mode 100644
+index 7bdd2fb..0000000
+--- a/octofamily/momma_octocat.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A Momma Octocat
+diff --git a/red_octocat.txt b/red_octocat.txt
+deleted file mode 100644
+index 19ee2b6..0000000
+--- a/red_octocat.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-A Red Octocat
+
+commit 771673148c5b43a225781f61f745f3bdbb4cd3ad
+Author: Try Git <try_git@github.com>
+Date:   Fri Mar 22 13:53:02 2013 +0000
+
+    Add all the octocat txt files
+
+diff --git a/blue_octocat.txt b/blue_octocat.txt
+new file mode 100644
+index 0000000..c09729a
+--- /dev/null
++++ b/blue_octocat.txt
+@@ -0,0 +1 @@
++A Blue Octocat
+diff --git a/octofamily/baby_octocat.txt b/octofamily/baby_octocat.txt
+new file mode 100644
+index 0000000..611fd14
+--- /dev/null
++++ b/octofamily/baby_octocat.txt
+@@ -0,0 +1 @@
++A Baby Octocat
+diff --git a/octofamily/momma_octocat.txt b/octofamily/momma_octocat.txt
+new file mode 100644
+index 0000000..7bdd2fb
+--- /dev/null
++++ b/octofamily/momma_octocat.txt
+@@ -0,0 +1 @@
++A Momma Octocat
+diff --git a/red_octocat.txt b/red_octocat.txt
+new file mode 100644
+index 0000000..19ee2b6
+--- /dev/null
++++ b/red_octocat.txt
+@@ -0,0 +1 @@
++A Red Octocat
+
+commit 73beeebfbafe2c80ff201deef44b9826ca320a88
+Author: Try Git <try_git@github.com>
+Date:   Fri Mar 22 13:53:02 2013 +0000
+
+    Added cute octocat story
+
+diff --git a/octocat.txt b/octocat.txt
+new file mode 100644
+index 0000000..7d8d808
+--- /dev/null
++++ b/octocat.txt
+@@ -0,0 +1 @@
++A Tale of Two Octocats
